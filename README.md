@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Forgiven04
+- 👀 I’m interested in make network with incredible people
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on projects that my know how may help
+- 📫 How to reach me? Send me a discord message on Forgiven#2148 or send me an email at joaopaulogentilf@gmail.com
