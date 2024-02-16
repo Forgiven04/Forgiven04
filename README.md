@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Forgiven04
+- 👋 Hi, I’m @jpgentil_
 - 👀 I’m interested in make network with incredible people
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on projects that my know how may help
-- 📫 How to reach me? Send me a discord message on Forgiven#2148 or send me an email at joaopaulogentilf@gmail.com
+- 🌱 I’m currently studying Computer Science at CS50x and in a presencial bachelors course at Universidade Federal de Roraima - UFRR
+- 💞️ I’m looking to collaborate on projects that my knowledge how may help
+- 📫 How to reach me? Send me a discord message on Forgiven2148 or send me an email at joaopaulogentilf@gmail.com
