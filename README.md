@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jpgentil_
-- 👀 I’m interested in make network with incredible people
-- 🌱 I’m currently studying Computer Science at CS50x and in a presencial bachelors course at Universidade Federal de Roraima - UFRR
-- 💞️ I’m looking to collaborate on projects that my knowledge may help
-- 📫 How to reach me? Send me a discord message on Forgiven2148 or send me an email at joaopaulogentilf@gmail.com
+- 👀 I’m trying to solve day to day problems with computers
+- 🌱 I’m currently studying Computer Science in a presencial computer science bachelors at Universidade Federal de Roraima (UFRR)
+- 📫 How to reach me? Send me an email at joaopaulogentilf@gmail.com
